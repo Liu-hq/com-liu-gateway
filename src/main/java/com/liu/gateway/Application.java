@@ -13,7 +13,6 @@ import org.springframework.web.client.RestTemplate;
 /**
  * Created by Administrator on 2018/6/14.
  */
-
 @SpringBootApplication
 @EnableZuulProxy
 @EnableCircuitBreaker
